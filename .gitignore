@@ -1,0 +1,6 @@
+*.zip
+.git/
+.ipynb_checkpoints/
+data/
+doc/
+paper/
